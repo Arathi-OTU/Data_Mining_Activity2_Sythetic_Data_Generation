@@ -299,4 +299,4 @@ Possible improvements:
 
 This project demonstrates an end-to-end healthcare data analytics workflow, including synthetic data generation, data preprocessing, validation, and visualization. The resulting dataset provides a foundation for advanced analytics, machine learning, and IoMT healthcare monitoring applications.
 
-The project follows a complete healthcare data analytics pipeline:
+
